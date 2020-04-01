@@ -4,6 +4,7 @@ ini baris pertama
 ini baris di bawah pertama
 ini baris kedua
 ini baris sebelum ketiga
+7.b
 ini baris ketiga
 ini baris keempat
 ini baris kelima
