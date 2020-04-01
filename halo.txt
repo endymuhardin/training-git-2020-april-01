@@ -1,1 +1,2 @@
+ini baris nol
 ini baris pertama
